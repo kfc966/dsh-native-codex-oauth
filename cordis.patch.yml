@@ -1,0 +1,8 @@
+# Native OpenAI Codex OAuth controls for a Web profile.
+
+- insert:
+    - id: authorization
+      name: '@deepseek-ai/dsh-authorization'
+
+    - id: dsh-native-codex-oauth
+      name: dsh-native-codex-oauth
